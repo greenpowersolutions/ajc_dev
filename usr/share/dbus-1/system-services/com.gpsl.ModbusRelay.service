@@ -1,0 +1,5 @@
+[D-BUS Service]
+Name=com.gpsl.ModbusRelay
+Exec=/usr/sbin/modbusrelay.py
+User=root
+SystemdService=dbus-com.gpsl.ModbusRelay.service

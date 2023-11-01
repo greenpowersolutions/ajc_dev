@@ -1,0 +1,42 @@
+{
+  "tank_1": {
+    "type": "fresh_water",
+    "size": 100,
+    "units": "percent",
+    "current_level": 50,
+    "fill_colour": "#5798ce",
+    "background_colour": "#898a8d",
+    "name": "Fresh Water",
+    "group": "Water"
+  },
+  "tank_2": {
+    "type": "grey_water",
+    "size": 100,
+    "units": "percent",
+    "current_level": 75,
+    "fill_colour": "#545454",
+    "background_colour": "#898a8d",
+    "name": "Grey Water",
+    "group": "Water"
+  },
+  "tank_3": {
+    "type": "waste",
+    "size": 100,
+    "units": "percent",
+    "current_level": 100,
+    "fill_colour": "#ffffff",
+    "background_colour": "#898a8d",
+    "name": "Front",
+    "group": "Waste"
+  },
+  "tank_4": {
+    "type": "waste",
+    "size": 100,
+    "units": "percent",
+    "current_level": 10,
+    "fill_colour": "#ffffff",
+    "background_colour": "#898a8d",
+    "name": "Back",
+    "group": "Waste"
+  }
+}
